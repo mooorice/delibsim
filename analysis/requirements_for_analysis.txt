@@ -1,0 +1,10 @@
+# Core notebook runtime
+jupyterlab>=4.0
+ipykernel>=6.0
+
+# Data + scientific stack
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+statsmodels>=0.14

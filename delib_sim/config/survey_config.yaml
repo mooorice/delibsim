@@ -1,0 +1,43 @@
+issue_topic: "Climate Change Policy"
+
+considerations:
+  - id: "C1"
+    text: "Economic Impact"
+    description: "The potential economic consequences of climate change policies on businesses and individuals"
+  - id: "C2"
+    text: "Environmental Protection"
+    description: "The effectiveness of policies in protecting and improving environmental conditions"
+  - id: "C3"
+    text: "Social Equity"
+    description: "How policies affect different social groups and ensure fair distribution of benefits and costs"
+  - id: "C4"
+    text: "Technological Feasibility"
+    description: "The practicality and availability of required technologies for implementation"
+  - id: "C5"
+    text: "International Cooperation"
+    description: "The level of global coordination and agreement on climate change policies"
+
+preferences:
+  - id: "P1"
+    text: "Carbon Pricing"
+    description: "Implementing carbon taxes or cap-and-trade systems"
+  - id: "P2"
+    text: "Renewable Energy Investment"
+    description: "Subsidizing and promoting renewable energy technologies"
+  - id: "P3"
+    text: "Regulatory Standards"
+    description: "Setting strict environmental regulations and standards"
+  - id: "P4"
+    text: "International Agreements"
+    description: "Participating in global climate agreements and treaties"
+  - id: "P5"
+    text: "Adaptation Measures"
+    description: "Focusing on adapting to climate change impacts"
+
+response_format:
+  consideration_scale:
+    min: 1
+    max: 5
+    description: "1 = Strongly Disagree, 5 = Strongly Agree"
+  preference_ranking:
+    description: "Rank from 1 (highest priority) to 5 (lowest priority)" 
